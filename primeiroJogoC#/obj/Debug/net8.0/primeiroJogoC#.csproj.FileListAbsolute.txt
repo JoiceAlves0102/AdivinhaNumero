@@ -1,0 +1,14 @@
+C:\Users\x521307\Documents\Estudos\c#\primeiroJogoC#\primeiroJogoC#\bin\Debug\net8.0\primeiroJogoC#.exe
+C:\Users\x521307\Documents\Estudos\c#\primeiroJogoC#\primeiroJogoC#\bin\Debug\net8.0\primeiroJogoC#.deps.json
+C:\Users\x521307\Documents\Estudos\c#\primeiroJogoC#\primeiroJogoC#\bin\Debug\net8.0\primeiroJogoC#.runtimeconfig.json
+C:\Users\x521307\Documents\Estudos\c#\primeiroJogoC#\primeiroJogoC#\bin\Debug\net8.0\primeiroJogoC#.dll
+C:\Users\x521307\Documents\Estudos\c#\primeiroJogoC#\primeiroJogoC#\bin\Debug\net8.0\primeiroJogoC#.pdb
+C:\Users\x521307\Documents\Estudos\c#\primeiroJogoC#\primeiroJogoC#\obj\Debug\net8.0\primeiroJogoC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x521307\Documents\Estudos\c#\primeiroJogoC#\primeiroJogoC#\obj\Debug\net8.0\primeiroJogoC#.AssemblyInfoInputs.cache
+C:\Users\x521307\Documents\Estudos\c#\primeiroJogoC#\primeiroJogoC#\obj\Debug\net8.0\primeiroJogoC#.AssemblyInfo.cs
+C:\Users\x521307\Documents\Estudos\c#\primeiroJogoC#\primeiroJogoC#\obj\Debug\net8.0\primeiroJogoC#.csproj.CoreCompileInputs.cache
+C:\Users\x521307\Documents\Estudos\c#\primeiroJogoC#\primeiroJogoC#\obj\Debug\net8.0\primeiroJogoC#.dll
+C:\Users\x521307\Documents\Estudos\c#\primeiroJogoC#\primeiroJogoC#\obj\Debug\net8.0\refint\primeiroJogoC#.dll
+C:\Users\x521307\Documents\Estudos\c#\primeiroJogoC#\primeiroJogoC#\obj\Debug\net8.0\primeiroJogoC#.pdb
+C:\Users\x521307\Documents\Estudos\c#\primeiroJogoC#\primeiroJogoC#\obj\Debug\net8.0\primeiroJogoC#.genruntimeconfig.cache
+C:\Users\x521307\Documents\Estudos\c#\primeiroJogoC#\primeiroJogoC#\obj\Debug\net8.0\ref\primeiroJogoC#.dll
